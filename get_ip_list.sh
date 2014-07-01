@@ -1,3 +1,4 @@
+mkdir data
 cd data
 rm README.md
 wget https://raw.githubusercontent.com/justjavac/Google-IPs/master/README.md
